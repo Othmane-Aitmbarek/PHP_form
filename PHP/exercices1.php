@@ -1,8 +1,8 @@
 <?php
 // //1
 // $etudiant = array(
-//     'nom' => 'Dupont',
-//     'prénom' => 'Jean',
+//     'nom' => 'Ahmed',
+//     'prénom' => 'Msakni',
 //     'matricule' => '123456',
 // //2
 //     'note' => 16
